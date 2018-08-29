@@ -8,7 +8,7 @@
 			<b-collapse is-nav id="nav_collapse">
 				<!-- Right aligned nav items -->
 				<b-navbar-nav class="ml-auto">
-					<b-nav-item href="#">
+					<b-nav-item href="https://github.com/AwrminKhodaei/GithubFinder">
 						<i class="fab fa-github fa-lg"></i>
 						GitHub Repo
 					</b-nav-item>

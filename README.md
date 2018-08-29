@@ -1,4 +1,4 @@
-# twitter-app
+# github-app
 
 ## Project setup
 ```
